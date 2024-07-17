@@ -1,7 +1,7 @@
 apiVersion: esx.vmware.com/v1alpha1
 kind: HostConfiguration
 metadata:
-  name: keswick-host-config
+  name: uden-host-config
   namespace: esx-system
 spec:
   layertype: Incremental
