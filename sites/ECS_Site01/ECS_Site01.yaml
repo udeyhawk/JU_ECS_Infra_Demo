@@ -67,6 +67,6 @@ spec:
   sourceRef:
     kind: GitRepository
     name: ecs-apps
-  path: ./sites/ECS_Site01
+  path: ./sites/ECS01
   prune: true
   timeout: 1m
